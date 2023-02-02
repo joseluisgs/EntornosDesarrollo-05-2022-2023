@@ -1,0 +1,6 @@
+*.pptx
+.DS_Store
+upload.sh
+/Recursos/Caja*
+/Recursos/JU*
+UD05.pdf
